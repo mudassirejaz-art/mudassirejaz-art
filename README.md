@@ -1,7 +1,7 @@
 <!-- ════════════════════════════════════════════════════════════ -->
 <!-- ⛳ Welcome • Header Image (Optional Banner/Typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&pause=2000&color=1976D2&amp;width=600&amp;height=72&amp;lines=Assalam+o+Alikum!%20👋;I%27m+<em>[Your+Name]</em>%20|%20Python%2FDjango+Developer;Automation+%7C+MySQL+%7C+SQLite" alt="Hi, I'm [Your Name]" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&pause=2000&color=1976D2&amp;width=600&amp;height=72&amp;lines=Assalam+o+Alikum!%20👋;I%27m+<em>Mudassir Ijaz</em>%20|%20Python%2FDjango+Developer;Automation+%7C+MySQL+%7C+SQLite" alt="Hi, I'm Mudassir Ijaz" />
 </p>
 
 <!-- ════════════════════════════════════════════════════════════ -->
@@ -72,36 +72,8 @@
 
 ## 📫 Get In Touch
 
-- **Email**: `youremail@example.com`  
-- **LinkedIn**: `linkedin.com/in/your‑profile`  
-- **Twitter**: `@your_twitter`
+- **Email**: `snakelogic354@gmail.com`  
+- **LinkedIn**: `https://linkedin.com/in/mudassir-ijaz`  
+- **Instagrame**: `https://instagram.com/pkr_coder`
 
 💬 Feel free to open an issue if you’d like to collaborate — always happy to connect!
-
----
-
-### ⚙️ How to Use This Template
-
-1. Visit GitHub → click **+ » New repository** → name the repo exactly as your GitHub username → check **Public** and **Add README.md** :contentReference[oaicite:2]{index=2}  
-2. Replace placeholders like `[Your Name]`, `YourUsername`, project links, and contacts.  
-3. Commit and push the file — GitHub will show this at the top of your profile.  
-4. Pin up to 6 key repos in your profile overview as shown above.  
-5. Enable other widgets (GitHub‑Streak, visitor count, blog list) for dynamic content. :contentReference[oaicite:3]{index=3}
-
----
-
-## ✅ Why This Works: Best Practices
-
-- A clear **hero heading** plus international keywords (e.g. “Python”, “MySQL”, “Laravel”) helps with both human and search-engine visibility. :contentReference[oaicite:4]{index=4}  
-- Structured sections with Markdown headings and a **Table of Contents** (implicit via headings) make it navigable. :contentReference[oaicite:5]{index=5}  
-- Badges and icons improve **visual clarity** and instantly communicate your tech stack. :contentReference[oaicite:6]{index=6}  
-- Showcasing **projects with links and tech stack** builds real credibility and helps employers see your actual work. :contentReference[oaicite:7]{index=7}
-
----
-
-**Custom Steps For You:**
-- Replace skills list with the ones you prefer (e.g., `Python 3.11`, `Laravel 10`, `Bootstrap 5.3`).
-- Adjust badge colors and icons via shields.io (search for badges in your stack).
-- If you speak Urdu, you may add a one-liner like:
-  ```md
-  🇵🇰 Passionate *Python & Laravel developer* - لاہور / اسلام آباد غالباً
