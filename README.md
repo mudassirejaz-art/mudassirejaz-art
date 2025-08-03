@@ -48,7 +48,7 @@
   
 | Repository | Title & Short Description | Built With |
 |------------|----------------------------|------------|
-| [**python-automate‑tools**](https://github.com/YourUsername/python-automate-tools) | Automate Excel/report generation with CLI interface | Python · SQLite |
+| [**python-automate‑tools**](https://github.com/mudassirejaz-art/excel_report_cli) | Automate Excel/report generation with CLI interface | Python · SQLite |
 | [**django‑web‑CRUD**](https://github.com/YourUsername/django-web-crud) | A simple CRUD app with user authentication | Django · MySQL |
 | [**laravel‑blog‑demo**](https://github.com/YourUsername/laravel-blog-demo) | Blog engine built with Laravel 9 | Laravel · Bootstrap |
 
