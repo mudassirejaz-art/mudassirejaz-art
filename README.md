@@ -52,7 +52,7 @@
 | [**django‑web‑CRUD**](https://github.com/YourUsername/django-web-crud) | A simple CRUD app with user authentication | Django · MySQL |
 | [**laravel‑blog‑demo**](https://github.com/YourUsername/laravel-blog-demo) | Blog engine built with Laravel 9 | Laravel · Bootstrap |
 
-📌 *Pin your top 3–4 repositories in your GitHub profile overview for visibility.*
+
 
 </div>
 
