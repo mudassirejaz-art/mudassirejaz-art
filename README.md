@@ -1,7 +1,10 @@
 <!-- ════════════════════════════════════════════════════════════ -->
 <!-- ⛳ Welcome • Header Image (Optional Banner/Typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&pause=2000&color=1976D2&amp;width=600&amp;height=72&amp;lines=Assalam+o+Alikum!%20👋;I%27m+<em>Mudassir Ijaz</em>%20|%20Python%2FDjango+Developer;Automation+%7C+MySQL+%7C+SQLite" alt="Hi, I'm Mudassir Ijaz" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=36&pause=2000&color=1976D2&width=600&height=72&lines=Assalam+o+Alikum!%20👋;I%27m+Mudassir+Ijaz+%7C+Python%2FDjango+Developer;Automation+%7C+MySQL+%7C+SQLite"
+    alt="Typing‑SVG — I am Mudassir Ijaz | Python/Django Developer"
+  />
 </p>
 
 <!-- ════════════════════════════════════════════════════════════ -->
