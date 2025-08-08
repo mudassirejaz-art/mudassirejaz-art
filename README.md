@@ -49,7 +49,7 @@
 | Repository | Title & Short Description | Built With |
 |------------|----------------------------|------------|
 | [**python-automate‑tools**](https://github.com/mudassirejaz-art/excel_report_cli) | Automate Excel/report generation with CLI interface | Python · SQLite |
-| [**django‑web‑CRUD**](https://github.com/YourUsername/django-web-crud) | A simple CRUD app with user authentication | Django · MySQL |
+| [**restapi-series**](https://github.com/mudassirejaz-art/restapi-series/tree/main) | REST API Series — Web Scraper | Flask API · Python |
 | [**laravel‑blog‑demo**](https://github.com/YourUsername/laravel-blog-demo) | Blog engine built with Laravel 9 | Laravel · Bootstrap |
 
 
