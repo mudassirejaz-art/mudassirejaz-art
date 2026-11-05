@@ -1,44 +1,50 @@
-# Mudassir Ijaz
+![Mudassir Ijaz, Python backend developer based in Pakistan](./assets/profile-midnight.svg)
 
-**Python backend developer** · Pakistan
-
-I build applications for workflows that need clear permissions, reliable records, and a traceable history. My recent work covers inventory operations and school reporting.
+<div align="center">
 
 [Portfolio](https://mudassirejaz.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/mudassir-ijaz) &nbsp; · &nbsp; [Email](mailto:snakelogic354@gmail.com)
 
----
+</div>
 
-## 01 · Project gallery
+I build Python APIs and the workflows behind them, from how a record enters the system to who can review it and what happens next.
+
+## Selected projects
 
 <table>
 <tr>
-<th width="50%">BatchTrace</th>
-<th width="50%">ParentReport</th>
+<td width="39%"><a href="https://mudassirejaz-art.github.io/batchtrace/"><img src="https://raw.githubusercontent.com/mudassirejaz-art/batchtrace/main/docs/screenshots/02-dashboard.png" alt="BatchTrace dashboard with sample inventory records"></a></td>
+<td>
+<sub>01 / INVENTORY OPERATIONS</sub>
+<h3>BatchTrace</h3>
+Track expiring stock, review supplier returns, and reconcile expected credit. CSV imports preserve historical evidence, and independent reviewers approve stock checks and credit records.
+<br><br>
+<a href="https://github.com/mudassirejaz-art/batchtrace"><strong>Source</strong></a> · <a href="https://mudassirejaz-art.github.io/batchtrace/">Showcase</a> · <a href="https://github.com/mudassirejaz-art/batchtrace/blob/main/docs/USER_GUIDE.md">Local setup</a>
+</td>
 </tr>
 <tr>
-<td><a href="https://mudassirejaz-art.github.io/batchtrace/"><img src="https://raw.githubusercontent.com/mudassirejaz-art/batchtrace/main/docs/screenshots/02-dashboard.png" alt="BatchTrace dashboard with sample inventory and supplier returns"></a></td>
-<td><a href="https://mudassirejaz-art.github.io/parent-report-whatsapp/"><img src="https://raw.githubusercontent.com/mudassirejaz-art/parent-report-whatsapp/main/frontend/verification/backend-admin-desktop.png" alt="ParentReport school dashboard with fictional classes"></a></td>
-</tr>
-<tr>
-<td>Track inventory expiry, review supplier returns, and reconcile expected credit.</td>
-<td>Publish class results and give guardians private access to their children’s reports.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/mudassirejaz-art/batchtrace">Source</a> · <a href="https://mudassirejaz-art.github.io/batchtrace/">Showcase</a> · <a href="https://github.com/mudassirejaz-art/batchtrace/blob/main/docs/USER_GUIDE.md">Run locally</a></td>
-<td><a href="https://github.com/mudassirejaz-art/parent-report-whatsapp">Source</a> · <a href="https://mudassirejaz-art.github.io/parent-report-whatsapp/">Showcase</a> · <a href="https://github.com/mudassirejaz-art/parent-report-whatsapp#run-locally">Run locally</a></td>
+<td width="39%"><a href="https://mudassirejaz-art.github.io/parent-report-whatsapp/"><img src="https://raw.githubusercontent.com/mudassirejaz-art/parent-report-whatsapp/main/frontend/verification/backend-admin-desktop.png" alt="ParentReport administrator dashboard with fictional classes"></a></td>
+<td>
+<sub>02 / SCHOOL REPORTING</sub>
+<h3>ParentReport</h3>
+Teachers publish class results and guardians see only their linked children’s reports. PostgreSQL scopes access, and a WhatsApp queue rechecks consent before dispatch. The local demo simulates delivery.
+<br><br>
+<a href="https://github.com/mudassirejaz-art/parent-report-whatsapp"><strong>Source</strong></a> · <a href="https://mudassirejaz-art.github.io/parent-report-whatsapp/">Showcase</a> · <a href="https://github.com/mudassirejaz-art/parent-report-whatsapp#run-locally">Local setup</a>
+</td>
 </tr>
 </table>
 
-## 02 · Engineering notes
+## Toolkit
 
-- **BatchTrace preserves the evidence behind a return.** CSV imports capture historical stock observations, and separate reviewers approve physical checks and credit evidence.
-- **ParentReport scopes access to each class and guardian.** PostgreSQL policies restrict records by role. The WhatsApp queue rechecks guardian consent before dispatch, and the local demo simulates delivery.
-- **My main stack** is Python, FastAPI, PostgreSQL, React, and TypeScript. I use Git, Linux, and Docker in my development workflow.
+| Backend | Data | Interface and tools |
+| --- | --- | --- |
+| Python · FastAPI · Flask | PostgreSQL · SQLAlchemy · SQLite | React · TypeScript · Git · Docker · Linux |
 
-## 03 · Smaller builds
+## Smaller builds
 
-- [FastAPI Auth API](https://github.com/mudassirejaz-art/fastapi-auth-api) · Token authentication and protected endpoints
-- [Excel Report CLI](https://github.com/mudassirejaz-art/excel_report_cli) · Export SQLite data to Excel from the command line
-- [REST API Series](https://github.com/mudassirejaz-art/restapi-series) · Flask API for structured web scraping
+| Repository | What I built |
+| --- | --- |
+| [FastAPI Auth API](https://github.com/mudassirejaz-art/fastapi-auth-api) | Token authentication and protected endpoints |
+| [Excel Report CLI](https://github.com/mudassirejaz-art/excel_report_cli) | A CLI that turns SQLite data into Excel reports |
+| [REST API Series](https://github.com/mudassirejaz-art/restapi-series) | A Flask API that extracts structured web data |
 
-[Browse my repositories](https://github.com/mudassirejaz-art?tab=repositories)
+[Browse all repositories](https://github.com/mudassirejaz-art?tab=repositories)
