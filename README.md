@@ -2,56 +2,48 @@
 
 <div align="center">
 
-**I build APIs, automation tools, and web applications that make everyday work simpler.**
+**Python backend developer in Pakistan. I build FastAPI services, PostgreSQL workflows, and React interfaces for the people who use them.**
 
 [Portfolio](https://mudassirejaz.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/mudassir-ijaz) &nbsp; · &nbsp; [Email](mailto:snakelogic354@gmail.com)
 
 </div>
 
-## Hey, I'm Mudassir 👋
+## Featured projects
 
-A developer based in Pakistan, focused on **Python backend development** and practical full-stack products. I enjoy turning a real workflow into software people can understand, use, and maintain.
+### BatchTrace · Inventory expiry and supplier returns
 
-My public work ranges from small command-line utilities to API-backed applications with React interfaces.
+BatchTrace helps inventory teams track batches nearing expiry, review supplier returns, and reconcile expected credit. I built a CSV import flow that preserves historical stock evidence, plus approval steps that keep the submitter and reviewer separate.
 
-### What I like building
+**FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript**
 
-- **Backend APIs** — authentication, structured endpoints, and database-backed applications.
-- **Automation tools** — reporting, web scraping, and repetitive tasks handled from the command line.
-- **Full-stack workflows** — interfaces that connect clearly to the data and processes behind them.
+[Source code](https://github.com/mudassirejaz-art/batchtrace) · [Public showcase](https://mudassirejaz-art.github.io/batchtrace/) · [Local setup](https://github.com/mudassirejaz-art/batchtrace/blob/main/docs/USER_GUIDE.md)
 
-## Selected work
+[![BatchTrace dashboard showing sample inventory and supplier return workflows](https://raw.githubusercontent.com/mudassirejaz-art/batchtrace/main/docs/screenshots/02-dashboard.png)](https://mudassirejaz-art.github.io/batchtrace/)
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[BatchTrace](https://github.com/mudassirejaz-art/batchtrace)** | Self-hostable workspace for inventory expiry tracking, supplier-return workflows, and internal credit reconciliation. | FastAPI · PostgreSQL · React · TypeScript |
-| **[FastAPI Auth API](https://github.com/mudassirejaz-art/fastapi-auth-api)** | Authentication API demonstrating access/refresh tokens, hashed secrets, and protected endpoints. | Python · FastAPI · SQLAlchemy |
-| **[Excel Report CLI](https://github.com/mudassirejaz-art/excel_report_cli)** | Turns SQLite data into Excel reports from a lightweight command-line utility. | Python · SQLite |
-| **[REST API Series](https://github.com/mudassirejaz-art/restapi-series)** | Flask web-scraping API that returns structured JSON and saves extracted results. | Flask · Requests · BeautifulSoup |
+### ParentReport · School reporting and parent portal
 
-[Explore more public projects →](https://github.com/mudassirejaz-art?tab=repositories)
+ParentReport gives teachers a class workspace for publishing marks and guardians a mobile portal for reading their linked children’s results. I implemented class and guardian access rules in PostgreSQL, plus a WhatsApp queue that rechecks consent before sending. The local demo uses fictional data and simulated delivery.
 
-## My toolkit
+**FastAPI · PostgreSQL · React · TypeScript · Remotion**
 
-| Area | Technologies |
-| :--- | :--- |
-| **Backend** | Python, FastAPI, Django, Flask |
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
-| **Data** | PostgreSQL, MySQL, SQLite |
-| **Development** | Git, Docker, Linux, command-line tooling |
+[Source code](https://github.com/mudassirejaz-art/parent-report-whatsapp) · [Public showcase](https://mudassirejaz-art.github.io/parent-report-whatsapp/) · [Local setup](https://github.com/mudassirejaz-art/parent-report-whatsapp#run-locally)
 
-## How I approach a project
+[![ParentReport school administrator workspace with fictional classes](https://raw.githubusercontent.com/mudassirejaz-art/parent-report-whatsapp/main/frontend/verification/backend-admin-desktop.png)](https://mudassirejaz-art.github.io/parent-report-whatsapp/)
 
-**Understand the workflow → Build the core → Test the boundaries → Improve the experience**
+## Other work
 
-I care about readable code, clear permissions, useful documentation, and interfaces that help people finish a task. I'm continuing to deepen my work in backend architecture, testing, and full-stack product development.
+| Project | What it demonstrates |
+| --- | --- |
+| [FastAPI Auth API](https://github.com/mudassirejaz-art/fastapi-auth-api) | Access and refresh tokens, hashed secrets, and protected endpoints |
+| [Excel Report CLI](https://github.com/mudassirejaz-art/excel_report_cli) | Excel reporting from SQLite with a Python command-line tool |
+| [REST API Series](https://github.com/mudassirejaz-art/restapi-series) | A Flask scraping API that returns structured JSON |
 
-## Let's build something useful
+## Toolkit
 
-Have a project involving **Python APIs, reporting automation, or a web application**? I'd be happy to hear about it.
+- **Backend and data** · Python, FastAPI, Django, Flask, PostgreSQL, SQLAlchemy, SQLite
+- **Frontend** · React, TypeScript, JavaScript, Tailwind CSS
+- **Development** · Git, Docker, Linux, command-line tooling
 
-**[Get in touch by email](mailto:snakelogic354@gmail.com)** &nbsp; · &nbsp; [See my portfolio](https://mudassirejaz.vercel.app/)
+I’m interested in Python backend roles and projects involving APIs, database workflows, and reporting automation.
 
----
-
-<sub>Based in Pakistan · Building, learning, and sharing my work.</sub>
+[See more repositories](https://github.com/mudassirejaz-art?tab=repositories) · [Get in touch](mailto:snakelogic354@gmail.com)
