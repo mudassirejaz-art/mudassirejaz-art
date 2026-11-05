@@ -1,49 +1,44 @@
-![Mudassir Ijaz — Backend & Full-Stack Developer](./assets/profile-header.svg)
+# Mudassir Ijaz
 
-<div align="center">
+**Python backend developer** · Pakistan
 
-**Python backend developer in Pakistan. I build FastAPI services, PostgreSQL workflows, and React interfaces for the people who use them.**
+I build applications for workflows that need clear permissions, reliable records, and a traceable history. My recent work covers inventory operations and school reporting.
 
 [Portfolio](https://mudassirejaz.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://linkedin.com/in/mudassir-ijaz) &nbsp; · &nbsp; [Email](mailto:snakelogic354@gmail.com)
 
-</div>
+---
 
-## Featured projects
+## 01 · Project gallery
 
-### BatchTrace · Inventory expiry and supplier returns
+<table>
+<tr>
+<th width="50%">BatchTrace</th>
+<th width="50%">ParentReport</th>
+</tr>
+<tr>
+<td><a href="https://mudassirejaz-art.github.io/batchtrace/"><img src="https://raw.githubusercontent.com/mudassirejaz-art/batchtrace/main/docs/screenshots/02-dashboard.png" alt="BatchTrace dashboard with sample inventory and supplier returns"></a></td>
+<td><a href="https://mudassirejaz-art.github.io/parent-report-whatsapp/"><img src="https://raw.githubusercontent.com/mudassirejaz-art/parent-report-whatsapp/main/frontend/verification/backend-admin-desktop.png" alt="ParentReport school dashboard with fictional classes"></a></td>
+</tr>
+<tr>
+<td>Track inventory expiry, review supplier returns, and reconcile expected credit.</td>
+<td>Publish class results and give guardians private access to their children’s reports.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/mudassirejaz-art/batchtrace">Source</a> · <a href="https://mudassirejaz-art.github.io/batchtrace/">Showcase</a> · <a href="https://github.com/mudassirejaz-art/batchtrace/blob/main/docs/USER_GUIDE.md">Run locally</a></td>
+<td><a href="https://github.com/mudassirejaz-art/parent-report-whatsapp">Source</a> · <a href="https://mudassirejaz-art.github.io/parent-report-whatsapp/">Showcase</a> · <a href="https://github.com/mudassirejaz-art/parent-report-whatsapp#run-locally">Run locally</a></td>
+</tr>
+</table>
 
-BatchTrace helps inventory teams track batches nearing expiry, review supplier returns, and reconcile expected credit. I built a CSV import flow that preserves historical stock evidence, plus approval steps that keep the submitter and reviewer separate.
+## 02 · Engineering notes
 
-**FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript**
+- **BatchTrace preserves the evidence behind a return.** CSV imports capture historical stock observations, and separate reviewers approve physical checks and credit evidence.
+- **ParentReport scopes access to each class and guardian.** PostgreSQL policies restrict records by role. The WhatsApp queue rechecks guardian consent before dispatch, and the local demo simulates delivery.
+- **My main stack** is Python, FastAPI, PostgreSQL, React, and TypeScript. I use Git, Linux, and Docker in my development workflow.
 
-[Source code](https://github.com/mudassirejaz-art/batchtrace) · [Public showcase](https://mudassirejaz-art.github.io/batchtrace/) · [Local setup](https://github.com/mudassirejaz-art/batchtrace/blob/main/docs/USER_GUIDE.md)
+## 03 · Smaller builds
 
-[![BatchTrace dashboard showing sample inventory and supplier return workflows](https://raw.githubusercontent.com/mudassirejaz-art/batchtrace/main/docs/screenshots/02-dashboard.png)](https://mudassirejaz-art.github.io/batchtrace/)
+- [FastAPI Auth API](https://github.com/mudassirejaz-art/fastapi-auth-api) · Token authentication and protected endpoints
+- [Excel Report CLI](https://github.com/mudassirejaz-art/excel_report_cli) · Export SQLite data to Excel from the command line
+- [REST API Series](https://github.com/mudassirejaz-art/restapi-series) · Flask API for structured web scraping
 
-### ParentReport · School reporting and parent portal
-
-ParentReport gives teachers a class workspace for publishing marks and guardians a mobile portal for reading their linked children’s results. I implemented class and guardian access rules in PostgreSQL, plus a WhatsApp queue that rechecks consent before sending. The local demo uses fictional data and simulated delivery.
-
-**FastAPI · PostgreSQL · React · TypeScript · Remotion**
-
-[Source code](https://github.com/mudassirejaz-art/parent-report-whatsapp) · [Public showcase](https://mudassirejaz-art.github.io/parent-report-whatsapp/) · [Local setup](https://github.com/mudassirejaz-art/parent-report-whatsapp#run-locally)
-
-[![ParentReport school administrator workspace with fictional classes](https://raw.githubusercontent.com/mudassirejaz-art/parent-report-whatsapp/main/frontend/verification/backend-admin-desktop.png)](https://mudassirejaz-art.github.io/parent-report-whatsapp/)
-
-## Other work
-
-| Project | What it demonstrates |
-| --- | --- |
-| [FastAPI Auth API](https://github.com/mudassirejaz-art/fastapi-auth-api) | Access and refresh tokens, hashed secrets, and protected endpoints |
-| [Excel Report CLI](https://github.com/mudassirejaz-art/excel_report_cli) | Excel reporting from SQLite with a Python command-line tool |
-| [REST API Series](https://github.com/mudassirejaz-art/restapi-series) | A Flask scraping API that returns structured JSON |
-
-## Toolkit
-
-- **Backend and data** · Python, FastAPI, Django, Flask, PostgreSQL, SQLAlchemy, SQLite
-- **Frontend** · React, TypeScript, JavaScript, Tailwind CSS
-- **Development** · Git, Docker, Linux, command-line tooling
-
-I’m interested in Python backend roles and projects involving APIs, database workflows, and reporting automation.
-
-[See more repositories](https://github.com/mudassirejaz-art?tab=repositories) · [Get in touch](mailto:snakelogic354@gmail.com)
+[Browse my repositories](https://github.com/mudassirejaz-art?tab=repositories)
